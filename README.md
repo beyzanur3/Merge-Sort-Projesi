@@ -1,4 +1,4 @@
-# Merge-Sort-Projesi
+# Merge-Sort-Projesi-2
 
 Proje 2
 
@@ -22,3 +22,4 @@ Proje 2
 
 BON = O(nlogn)
 
+www.patika.dev
